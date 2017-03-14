@@ -11,5 +11,5 @@ Requirement <br/>
   http://www.oracle.com/technetwork/java/javase/downloads/index.html <br/>
   then use command like below :<br/>
   sudo chmod +x install_jdk.sh<br/>
-  sudo ./install_jdk.sh jdk jdk-8u92-linux-x64.tar.gz<br/>
+  sudo ./install_jdk.sh jdk-8u92-linux-x64.tar.gz<br/>
   
